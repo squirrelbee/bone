@@ -1,0 +1,22 @@
+{
+    "atomType": "Molecule",
+    "name": "bone",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 238438,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9865681665547348,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
